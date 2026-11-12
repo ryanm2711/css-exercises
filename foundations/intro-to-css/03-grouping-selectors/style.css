@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.awesomeButton {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif
+}
+
+#uniqueButton1 {
+    background-color: black;
+    color: white;
+}
+
+#uniqueButton2 {
+    background-color: yellow;
+}
